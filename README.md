@@ -1,7 +1,7 @@
 # Cognitive Transfuser
 
 **Official Repository of Multimodal Data Fusion for Waypoint Prediction of Autonomous Vehicle
-(ICRA 2023 Submitted) (TBU)**
+**
 
 
 
